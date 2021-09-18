@@ -15,4 +15,6 @@
 
 <h2 align=center>🌐 Lien web du projet :</h2>
 
-<p align=center>Voici un lien pour tester le jeu:
+<p align=center>Voici un lien pour tester l'application:
+  A Venir...
+</p>
